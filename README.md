@@ -19,6 +19,7 @@ Input: Input file for ChatGPT4 in .txt files
 Output: Answers in .txt files
 
 Citation
+
 If you find our code useful, we kindly request that you cite the following paper:
 
 If you have any issues, please contact with wqliang_st@rcees.ac.cn
