@@ -41,7 +41,7 @@ def process_folder(json_file_path, folder_path, output_folder):
             text_content = read_text_file(text_file_path)
 
             # Create the final content
-            result_content = "Please read the text inside the triple curly braces and extract the desired information.\n {{{\n"
+            result_content = "You are an expert in environmental science, toxicology, and pharmacology, specializing in oxidative stress. Please read the text inside the triple curly braces and extract the desired information.\n {{{\n"
             result_content += f"Title: {title}\nAbstract: {abstract}\nText: {text_content}"
             result_content += "}}}"
 
