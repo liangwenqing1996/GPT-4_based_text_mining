@@ -10,7 +10,7 @@ Input：PDF documents
 
 Output：Parsed text in .txt files
 
-### 2. text_selection.py
+### 2. text_preprocessing.py
 
 Function: Select text relavent to target information. This code is highly specific to our study aim; however, the selection rules and code logic are transferable and can be adapted to other tasks.
 
