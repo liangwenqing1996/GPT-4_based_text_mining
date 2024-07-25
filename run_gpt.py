@@ -10,7 +10,6 @@ def run_gpt(input_data, model_name):
   }
 
   data = {
-    # "model": "gpt-3.5-turbo",
     "model": model_name,
     "messages": [{"role": "user", "content": input_data}]
   }
