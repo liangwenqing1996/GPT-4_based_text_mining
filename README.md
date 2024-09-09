@@ -1,4 +1,4 @@
-The official repository for the paper: "A Comprehensive Analysis of Oxidative Stress-regulating Chemicals Using ChatGPT-based Text Mining".
+The official repository for the paper: "A Comprehensive Analysis of Oxidative Stress-regulating Chemicals Using GPT-based Text Mining".
 
 ## Code Introduction
 
