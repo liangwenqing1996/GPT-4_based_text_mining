@@ -1,4 +1,4 @@
-The official repository for the paper: "A Comprehensive Analysis of Oxidative Stress-regulating Chemicals Using GPT-based Text Mining".
+The official repository for the paper: "Comprehensive characterization of oxidative stress-modulating chemicals using GPT-based text mining".
 
 ## Code Introduction
 
@@ -37,5 +37,5 @@ Output: Answers in .txt files
 ## Citation
 
 If you find our code useful, we kindly request that you cite the following paper:
-
+Liang W Q, Su W Y, Zhong L J, Yang Z D, Li T Y, Liang Y, Ruan T, Jiang G B. Comprehensive characterization of oxidative stress-modulating chemicals using GPT-based text mining. Environmental Science & Technology, 2024, 58 (46): 20540−20552.
 If you have any issues, please contact with wqliang_st@rcees.ac.cn
